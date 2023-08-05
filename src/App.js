@@ -17,10 +17,6 @@ if (fileInput) {
   });
 }
 
-if (true) {
-  let x = 0;
-}
-
 class FileInput extends React.Component {
   state = {
     input: ""
